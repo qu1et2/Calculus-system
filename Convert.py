@@ -1,7 +1,7 @@
 print("Conversion from the 10th number system to any")
 while True:
-    calc = int(input("Which calculus system?: ")) #Calculus system created by qu1et2
     sy = [] 
+    calc = int(input("Which calculus system?: ")) #Calculus system created by qu1et2
     n = int(input("Number: "))
 
     while n > 0:
