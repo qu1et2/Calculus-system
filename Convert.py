@@ -22,3 +22,8 @@ while True:
     stringg = int(stringg)
     print(stringg)
 
+ # s = ""    # Option 2, much shorter than the first
+ # while n > 0: 
+ #        s += str(n % calc)
+ #        n //= calc
+ # print(s)
